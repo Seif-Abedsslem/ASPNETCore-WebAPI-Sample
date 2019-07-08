@@ -75,3 +75,6 @@ See the examples here:
 
 
 ![ASPNETCOREWebAPIGET](./.github/delete.jpg)
+
+
+https://www.talkingdotnet.com/add-swagger-to-asp-net-core-2-0-web-api/
